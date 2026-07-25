@@ -170,7 +170,7 @@ ShopNex_Ecommerce_Website
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/abishajebamani/ShopNex-Ecommerce-Website.git
+git clone https://github.com/Abishajebamani/ShopNex-Ecommerce-Website.git
 ```
 
 
@@ -350,7 +350,7 @@ Full Stack Developer
 
 GitHub:
 
-https://github.com/abishajebamani
+https://github.com/Abishajebamani
 
 
 
